@@ -1,0 +1,28 @@
+.ds-navbar {
+    border: 0;
+    margin: 0;
+}
+
+.ds-navbar-container {
+    border: 0;
+    background: rgb(0,116,255);
+    padding: 0 10rem;
+    /*background: linear-gradient(0deg, rgba(0,116,255,1) 0%, rgba(0,116,255,1) 84%, rgba(0,212,255,1) 100%);*/
+}
+
+.ds-brand {
+    color: #fffff3 !important;
+    font-weight: bold;
+}
+
+.ds-free-trial-button {
+    background-image: none;
+    border-color: #424242;
+    color: #fffff3 !important;
+    background-color: #424242 !important;
+    margin-left: 5rem;
+}
+
+.ds-log-in {
+    color: #fffff3 !important;
+}

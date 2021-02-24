@@ -1,0 +1,53 @@
+.ds-footer-container {
+    color: whitesmoke;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #1e1e1e;
+    padding: 2rem 10rem;
+}
+
+.ds-footer-nav-row {
+    overflow: hidden;
+}
+
+.ds-footer-nav {
+
+    padding: 0;
+}
+
+.ds-footer-nav > li:first-child {
+    border-left: none;
+    padding-left: 0;
+}
+
+.ds-footer-nav > li {
+    display: inline;
+    padding: 0 1em;
+    text-align: left;
+    border-left: 1px solid #ccc;
+    list-style: none;
+}
+
+.ds-footer-assets-row {
+    margin-top: 3em;
+}
+
+.ds-social {
+    padding: 0;
+}
+
+.ds-social > img {
+    width: 35px;
+    height: 35px;
+    margin-right: 1em;
+}
+
+.ds-store {
+    text-align: right;
+}
+
+.ds-store > img {
+    height: 35px;
+    margin-left: 1em;
+}

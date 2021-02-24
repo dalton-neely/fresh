@@ -1,0 +1,9 @@
+.ds-title-well {
+    padding: 0 10rem;
+    background-color: #414141 !important;
+    background-image: none;
+    color: whitesmoke;
+    border-color: #414141;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}

@@ -1,0 +1,29 @@
+.ds-home-page {
+    padding: 0 10rem;
+}
+
+.ds-placeholder-container-outer {
+    display: inline-block;
+}
+
+.ds-placeholder-container {
+    background-color: #1e1e1e;
+    overflow: hidden;
+    height: 200px;
+    width: 125px;
+    margin-right: 2rem;
+}
+
+.ds-placeholder-image {
+    position: relative;
+    left: -65px;
+    top: 15px;
+}
+
+.ds-placeholder-text {
+    position: relative;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    top: -55px;
+}
