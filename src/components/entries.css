@@ -1,0 +1,16 @@
+.ds-poster-art {
+    margin-right: 1.5rem;
+    display: inline;
+    margin-bottom: 2rem;
+    float: left;
+}
+
+.ds-poster-art-img {
+    width: 175px;
+    display: block;
+    margin: 0 auto;
+}
+
+.ds-poster-title {
+    display: block;
+}
